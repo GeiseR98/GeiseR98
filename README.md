@@ -26,3 +26,6 @@ Here are some ideas to get you started:
 ![JUnit](https://img.shields.io/badge/-junit-6CA315?style=for-the-badge&logo=junit&logoColor=C60000)
 ![Mockito](https://img.shields.io/badge/-mockito-6CA315?style=for-the-badge&logo=mockito&logoColor=90fd87)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
